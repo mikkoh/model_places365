@@ -1,0 +1,5 @@
+torch==1.0.0
+torchvision==0.2.1
+# You can optionally pin to a version of the Runway Model SDK like: "runway-python==0.1.0"
+runway-python
+Pillow==6.0.0
